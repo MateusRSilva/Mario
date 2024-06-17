@@ -12,3 +12,6 @@ Made by:
 Made with:
 React, Tailwind, Typescript
 
+### Game site
+https://supermarioreact.netlify.app/
+
